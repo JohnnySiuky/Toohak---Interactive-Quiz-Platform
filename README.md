@@ -39,7 +39,7 @@ Toohak is a full-stack interactive quiz platform inspired by Kahoot, designed to
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/toohak-backend.git
+git clone https://github.com/JohnnySiuky/Toohak---Interactive-Quiz-Platform.git
 cd toohak-backend
 ```
 2. Install dependencies:
